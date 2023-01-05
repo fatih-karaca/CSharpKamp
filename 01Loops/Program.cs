@@ -1,4 +1,5 @@
 ﻿using System;
+
 namespace _01Loops
 {
     class Program
@@ -33,7 +34,6 @@ namespace _01Loops
             {
                 Console.WriteLine(course);
             }
-
 
             for (int i = 0; i < courses.Length; i++)
             {

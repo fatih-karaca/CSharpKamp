@@ -1,4 +1,5 @@
 ﻿using System;
+
 namespace _00KampIntro
 {
     class Program

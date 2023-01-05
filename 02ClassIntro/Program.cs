@@ -1,4 +1,5 @@
 ﻿using System;
+
 namespace _02ClassIntro
 {
     class Program
